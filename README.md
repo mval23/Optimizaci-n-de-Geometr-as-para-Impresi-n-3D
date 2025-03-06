@@ -77,13 +77,10 @@ Donde:
 
 ## Capturas de Pantalla
 ### Interfaz Gráfica
-![GUI](images/GUI.png)
+![GUI](img/GUI.png)
 
 ### Resultado Final
-![Optimización Final](images/gui_final.png)
-
-## Licencia
-Este proyecto está licenciado bajo la [MIT License](LICENSE).
+![Optimización Final](img/gui_final.png)
 
 ## Contacto
 **Leonard David Vivas Dallos**  
@@ -95,13 +92,3 @@ Correo: [correo@example.com](mailto:correo@example.com)
 
 **Tomás Escobar Rivera**  
 Correo: [correo@example.com](mailto:correo@example.com)  
-```
-
----
-
-### Notas:
-- **Sustituye los nombres, correos y enlaces** con los de tu equipo o proyecto.
-- **Asegúrate de incluir imágenes en la carpeta `images/`** para que se muestren correctamente.
-- **Si usas GitHub**, puedes agregar este `README.md` directamente en el repositorio para documentar el proyecto de forma clara.
-
-Este `README.md` proporciona una descripción completa del proyecto, cómo instalarlo, ejecutarlo y sus funcionalidades.
