@@ -76,10 +76,7 @@ Donde:
 
 ## Capturas de Pantalla
 ### Interfaz Gráfica
-![GUI](images/gui_main.png)
-
-### Optimización en Progreso
-![Iteración](images/gui_iteration.png)
+![GUI](images/GUI.png)
 
 ### Resultado Final
 ![Optimización Final](images/gui_final.png)
