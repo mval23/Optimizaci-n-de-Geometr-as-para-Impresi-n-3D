@@ -80,7 +80,7 @@ Donde:
 ![GUI](img/GUI.png)
 
 ### Resultado Final
-![Optimización Final](img/gui_final.png)
+![Optimización Final](img/ModelosSTL.png)
 
 ## Contacto
 **Leonard David Vivas Dallos**  
