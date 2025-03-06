@@ -11,26 +11,6 @@ Este proyecto implementa un software de optimización topológica para estructur
 - Representación gráfica en 3D de la estructura optimizada.
 
 ## Estructura del Proyecto
-
-Aquí tienes un `README.md` detallado sin emojis y con una estructura profesional para tu proyecto:
-
----
-
-### **README.md**
-```markdown
-# Optimización de Geometrías para Impresión 3D
-
-Este proyecto implementa un software de optimización topológica para estructuras en 3D, utilizando el método SIMP (*Solid Isotropic Material with Penalization*). Su objetivo es mejorar la resistencia de una pieza optimizando la distribución de material, facilitando su fabricación mediante impresión 3D.
-
-## Características
-- Optimización topológica basada en Análisis de Elementos Finitos (FEA).
-- Interfaz gráfica (GUI) con `Tkinter` para facilitar la configuración de parámetros.
-- Visualización en tiempo real del proceso de optimización.
-- Exportación del modelo optimizado a formato STL para impresión 3D.
-- Generación de superficies suavizadas con el método Marching Cubes.
-- Representación gráfica en 3D de la estructura optimizada.
-
-## Estructura del Proyecto
 ```
 📁 Optimización-Topológica
 │── 📜 main.py           # Código principal con la GUI
