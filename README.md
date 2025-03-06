@@ -10,18 +10,6 @@ Este proyecto implementa un software de optimización topológica para estructur
 - Generación de superficies suavizadas con el método Marching Cubes.
 - Representación gráfica en 3D de la estructura optimizada.
 
-## Estructura del Proyecto
-```
-📁 Optimización-Topológica
-│── 📜 main.py           # Código principal con la GUI
-│── 📜 requirements.txt  # Dependencias del proyecto
-│── 📜 README.md         # Documentación
-│── 📜 LICENSE           # Licencia del proyecto
-│── 📜 optimized.stl     # Archivo STL optimizado (generado)
-│── 📜 optimized_iso.stl # Archivo STL suavizado (generado)
-└── 📁 images            # Capturas de la GUI y resultados
-```
-
 ## Instalación
 ### Clonar el repositorio
 ```bash
