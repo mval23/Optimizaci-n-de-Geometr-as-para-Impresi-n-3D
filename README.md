@@ -52,7 +52,9 @@ python main.py
 ## Método de Optimización
 ### Método SIMP (*Solid Isotropic Material with Penalization*)
 Este método optimiza la distribución de material utilizando la interpolación de rigidez:
-$ E_i = E_{\text{min}} + x_i^p (E_0 - E_{\text{min}}) $
+\[
+E_i = E_{\text{min}} + x_i^p (E_0 - E_{\text{min}})
+\]
 
 Donde:
 - $x_i$ es la densidad de material en cada voxel.
