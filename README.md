@@ -52,26 +52,27 @@ python main.py
 ## Método de Optimización
 ### Método SIMP (*Solid Isotropic Material with Penalization*)
 Este método optimiza la distribución de material utilizando la interpolación de rigidez:
-\[
+$$
 E_i = E_{\text{min}} + x_i^p (E_0 - E_{\text{min}})
-\]
+$$
+
 Donde:
-- \( x_i \) es la densidad de material en cada voxel.
-- \( p \) es el factor de penalización para evitar valores intermedios.
-- \( E_0 \) es el módulo de Young del material.
+- $x_i$ es la densidad de material en cada voxel.
+- $p$ es el factor de penalización para evitar valores intermedios.
+- $E_0$ es el módulo de Young del material.
 
 ## Funciones Principales
-### `optimize_topology()`
+1.  `optimize_topology()`
 - Ejecuta la optimización topológica en un dominio 3D.
 - Implementa el método SIMP con filtro de sensibilidad.
 
-### `display_solid_3D()`
+2. `display_solid_3D()`
 - Representa la estructura voxelizada en 3D.
 
-### `display_iso_surface_3D()`
+3. `display_iso_surface_3D()`
 - Genera una isosuperficie suavizada con Marching Cubes.
 
-### `export_optimized_stl()`
+4. `export_optimized_stl()`
 - Exporta el modelo final en formato STL para impresión 3D.
 
 ## Capturas de Pantalla
