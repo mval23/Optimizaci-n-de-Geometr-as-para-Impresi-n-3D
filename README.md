@@ -1,0 +1,1 @@
+# Optimizaci-n-de-Geometr-as-para-Impresi-n-3D
