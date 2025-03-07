@@ -84,11 +84,10 @@ Donde:
 
 ## Contacto
 **Leonard David Vivas Dallos**  
-Correo: [correo@example.com](mailto:correo@example.com)  
-GitHub: [github.com/usuario](https://github.com/usuario)
+Correo: [lvivasd@unal.edu.co](mailto:lvivasd@unal.edu.co)  
 
 **Mariana Valencia Cubillos**  
-Correo: [correo@example.com](mailto:correo@example.com)  
+Correo: [mvalenciacu@unal.edu.co](mailto:mvalenciacu@unal.edu.co)  
 
 **Tomás Escobar Rivera**  
-Correo: [correo@example.com](mailto:correo@example.com)  
+Correo: [tescobarr@unal.edu.co](tescobarr@unal.edu.co)  
